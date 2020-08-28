@@ -1,5 +1,7 @@
-<h2>### Hi, I'm Bryan 🤙🏾</h2>
-
+<h2><Strong>Hi, I'm Bryan 🤙🏾 </Strong></h2>
+<p>
+Computer Engineer at <a href="https://www.uaemex.mx/">UAEM</a> from Mexico, passionate about learning.
+</p>  
 <!--
 **bryanUziel/bryanUziel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
