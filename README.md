@@ -1,6 +1,6 @@
-<h2><Strong>Hi, I'm Bryan 🤙🏽 </Strong></h2>
+<h2><Strong>Hi, I'm Bryan 🤙🏽 </Strong></h2> 
 <p>
-Computer Engineer at <a href="https://www.uaemex.mx/">UAEM</a> from Mexico, passionate about learning.
+Computer Engineer at <a href="https://www.uaemex.mx/">UAEM</a> from Mexico, passionate about learning. 
 </p>
 <p>
   <strong>SKILLS</strong> :octocat: 
@@ -16,10 +16,11 @@ Computer Engineer at <a href="https://www.uaemex.mx/">UAEM</a> from Mexico, pass
   <li><img src="https://img.shields.io/badge/Kotlin%20-%231572B6.svg?&style=for-the-badge&logo=Kotlin&color=yellow"/></li>
  </ul>
 <p>
-  <strong>CONTACT</strong>
+  <strong>CONTACT</strong> 
 </p> 
 <a href="https://www.linkedin.com/in/bryan-uziel-l%C3%B3pez-5a356718b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/Bry4nUz1el"><img src="https://img.shields.io/badge/Hackerrank%20-%231572B6.svg?&style=for-the-badge&logo=HACKERRANK&color=white" /></a>
+ <img src="https://media.giphy.com/media/uHD9t4kUUuTXTLMuuu/giphy.gif" width="100"/>
 <!--
 **bryanUziel/bryanUziel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
