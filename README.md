@@ -1,4 +1,4 @@
-<h2><Strong>Hi, I'm Bryan 🤙🏽 </Strong></h2> 
+<h2><Strong>Hi, I'm Bryan 🤙🏽 </Strong> <a href="https://www.google.com"><img title="EasterEgg" src="https://media.giphy.com/media/l0MYPWj8QHG7FAgpy/giphy.gif" width="150"/></a> </h2> 
 <p>
 Computer Engineer at <a href="https://www.uaemex.mx/">UAEM</a> from Mexico, passionate about learning. 
 </p>
@@ -20,5 +20,3 @@ Computer Engineer at <a href="https://www.uaemex.mx/">UAEM</a> from Mexico, pass
 </p> 
 <a href="https://www.linkedin.com/in/bryan-uziel-l%C3%B3pez-5a356718b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/Bry4nUz1el"><img src="https://img.shields.io/badge/Hackerrank%20-%231572B6.svg?&style=for-the-badge&logo=HACKERRANK&color=white" /></a>
- <a href="https://www.google.com"><img title="EasterEgg" src="https://media.giphy.com/media/uHD9t4kUUuTXTLMuuu/giphy.gif" width="100"/></a> 
-
