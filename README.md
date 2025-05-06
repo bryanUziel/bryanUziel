@@ -1,8 +1,5 @@
 <h2><Strong>Hi, I'm Bryan 🤙🏽 </Strong> <a href="https://www.google.com"><img title="EasterEgg" src="https://media.giphy.com/media/l0MYPWj8QHG7FAgpy/giphy.gif" width="150"/></a> </h2> 
 <p>
-Computer Engineer at <a href="https://www.uaemex.mx/">UAEM</a> from Mexico, passionate about learning. 
-</p>
-<p>
   <strong>SKILLS</strong> :octocat: 
 </p>
  <ul>
